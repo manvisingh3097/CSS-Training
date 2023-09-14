@@ -1,0 +1,48 @@
+.title{
+    color: gray;
+    margin: 10%;
+}
+
+.center{
+    text-align: center;
+}
+
+.main{
+    width: 400px;
+    margin: 10px auto;
+    border : 1px solid grey;
+    border-radius: 14px;
+}
+
+.box{
+    padding: 10px; 
+    text-size-adjust: auto;
+}
+
+.box-image{
+    width: 100%;
+    border-radius: 10%;
+    border-top-left-radius: 14px; 
+    border-top-right-radius: 14px;
+   
+}
+
+.btn{
+    background-color: transparent;
+    font-size: 25px;
+    margin: 10%;
+    color: lightseagreen;
+    border-radius: 7px;
+    width: 50%;
+    padding: 13px 13px;
+}
+
+.ptag{
+    margin: 10%;
+    font-weight:normal;
+    color: grey;
+}
+
+.h3tag{
+    margin: 10%;
+}
